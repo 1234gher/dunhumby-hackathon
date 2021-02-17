@@ -1,7 +1,7 @@
 # dunhumby-hackathon
 here there were two rounds 
 <p>1)quiz based on ML topics scored 32/40</p>
-<p> to develop algorithm for given problem: </p>
+<p>2)to develop algorithm for given problem: </p>
 <p>Objective:</p>
 
 <p>The objective of the hackathon is to allocate the most relevant set of products to each customer by maximizing total relevancy. You should use the column “relevancy_score” of Relevancy_table to get relevancy of products for customers.</p>
