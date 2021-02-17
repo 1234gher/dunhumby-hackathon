@@ -1,6 +1,6 @@
 # dunhumby-hackathon
 here there were two rounds 
-<p>1)quiz based on ML topics</p>
+<p>1)quiz based on ML topics scored 32/40</p>
 <p> to develop algorithm for given problem: </p>
 <p>Objective:</p>
 
