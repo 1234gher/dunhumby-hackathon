@@ -16,3 +16,5 @@ here there were two rounds
 <p>3. There are some set of products which cannot be assigned together (e.g. product “5649565” and “5649646” cannot be given together to any customer). You can get this list in the Exclusion table.</p>
 
 <p>4. All the products allocated to a customer should be distinct (i.e. the same product cannot be allocated twice to the same customer)</p>
+
+![Screenshot 2021-02-17 at 11 48 58 AM](https://user-images.githubusercontent.com/32381770/108164778-79685800-7117-11eb-8d6d-46c4172febe4.png)
